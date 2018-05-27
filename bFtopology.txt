@@ -1,0 +1,6 @@
+bellman-ford lovelace 123.571 baran 109.601
+lovelace bellman-ford 123.571 knuth 61.550 hopper 85.549
+knuth lovelace 61.550 hopper 141.564 cerf 183.569
+baran bellman-ford 109.601 cerf 116.551
+cerf baran 116.551 knuth 183.569 hopper 66.535
+hopper cerf 66.535 knuth 141.564 lovelace 85.549
